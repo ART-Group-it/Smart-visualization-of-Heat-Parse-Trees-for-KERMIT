@@ -77,7 +77,7 @@
         <script type="text/javascript" src="file.js"></script>
     <?php endif; ?>
     <footer>
-        © Tesi Andrea Ciccotti 2020, Università degli Studi di Roma "Tor Vergata", code avaiable on <a href="https://github.com/SuperCicco/Smart-visualization-of-Heat-Parse-Trees-for-KERMIT" target="blank"> <i class="fa fa-github" aria-hidden="true"></i></a>
+        © Tesi Andrea Ciccotti 2020, Università degli Studi di Roma "Tor Vergata", code avaiable on <a href="https://github.com/ART-Group-it/Smart-visualization-of-Heat-Parse-Trees-for-KERMIT" target="blank"> <i class="fa fa-github" aria-hidden="true"></i></a>
     </footer>
 </body>
 
