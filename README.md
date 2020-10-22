@@ -14,3 +14,5 @@ After all this is the result:
 ![Image](/img/img2.png)
 
 In conclusion if you want you can download the resulting image of Heat-Parse-Tree in PNG.
+
+![Image](/img/canvas.png)
