@@ -20,6 +20,8 @@ After all this is the result:
 
 In conclusion in both versions if you want you can download the resulting image of Heat-Parse-Tree in PNG.
 
-Version1: ![Image](/img/canvas.png)
+Version1:
+![Image](/img/canvas.png)
 
-Version2: ![Image](/img/canvas2.png)
+Version2:
+![Image](/img/canvas2.png)
