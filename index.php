@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="style.css">
     <link rel="shortcut icon" href="favicon.ico" />
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <title>Smart visualization of Heat Parse Trees for KERMIT Version 1</title>
+    <title>Smart visualization of Heat Parse Trees for KERMIT Version</title>
 </head>
 
 <body>
@@ -74,7 +74,7 @@
             var brotherDistance = <?php echo $brothersDistance?>;
             var levelLength = <?php echo $levelLength?>;
         </script>
-        <script type="text/javascript" src="file.js"></script>
+        <script type="text/javascript" src="file.js"></script>  <!--change the version that you want -->
     <?php endif; ?>
     <footer>
         © Tesi Andrea Ciccotti 2020, Università degli Studi di Roma "Tor Vergata", code avaiable on <a href="https://github.com/ART-Group-it/Smart-visualization-of-Heat-Parse-Trees-for-KERMIT" target="blank"> <i class="fa fa-github" aria-hidden="true"></i></a>
