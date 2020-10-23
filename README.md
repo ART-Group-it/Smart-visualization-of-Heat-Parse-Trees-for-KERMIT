@@ -14,8 +14,12 @@ After all this is the result:
 - With version1.js
 ![Image](/img/img2.png)
 
--With version2.js
+- With version2.js
+![Image](/img/img23.png)
+
 
 In conclusion in both versions if you want you can download the resulting image of Heat-Parse-Tree in PNG.
 
-![Image](/img/canvas.png)
+Version1: ![Image](/img/canvas.png)
+
+Version2: ![Image](/img/canvas2.png)
